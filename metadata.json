@@ -1,0 +1,6 @@
+{
+  "name": "Wolf Treasure Pokie",
+  "description": "Premium animated landing page for the popular Wolf Treasure Pokie virtual casino slot game featuring hold and win features, giant symbols, three jackpot tiers, and bonus offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
